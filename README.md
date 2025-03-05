@@ -1,12 +1,14 @@
 Bike Demand Prediction - Multiple Linear Regression
+
 **Overview**
 This project aims to build a Multiple Linear Regression model to predict the demand for shared bikes based on various independent factors. The dataset is provided by BoomBikes, a bike-sharing service provider, to understand demand patterns and optimize their business strategy post-pandemic.
 
 **Dataset Information**
 The dataset (day.csv) consists of daily records of bike rentals and includes features such as:
-•	Season, Weather Conditions, Temperature, Humidity, Wind Speed, etc.
-•	Casual Users and Registered Users (summed into the target variable cnt)
-•	Working Day and Holiday indicators
+•	 Season, Weather Conditions, Temperature, Humidity, Wind Speed, etc.
+•	 Casual Users and Registered Users (summed into the target variable cnt)
+•	 Working Day and Holiday indicators
+
 **Objective**
 The goal is to:
 1.	Identify significant variables affecting bike demand.
